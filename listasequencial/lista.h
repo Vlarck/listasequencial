@@ -1,5 +1,5 @@
-#ifndef LISTA_SEQUENCIAL_H_INCLUDED
-#define LISTA_SEQUENCIAL_H_INCLUDED
+#ifndef LISTA_H
+#define LISTA_H
 #define MAX 100
 
 typedef struct {
